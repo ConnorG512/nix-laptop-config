@@ -15,6 +15,7 @@
     syncthing
     mpv
     gearlever
+    gnupg
     ];
   };
 }
