@@ -14,6 +14,7 @@
     librewolf-bin
     syncthing
     mpv
+    gearlever
     ];
   };
 }
