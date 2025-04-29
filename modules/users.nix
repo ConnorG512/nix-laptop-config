@@ -13,6 +13,7 @@
     keepassxc
     librewolf-bin
     syncthing
+    mpv
     ];
   };
 }
