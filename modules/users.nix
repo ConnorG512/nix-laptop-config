@@ -16,6 +16,7 @@
     mpv
     gearlever
     gnupg
+    termusic
     ];
   };
 }
