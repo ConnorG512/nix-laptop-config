@@ -22,5 +22,6 @@
   wofi
   nemo
   pwvucontrol
+  fzf
   ];
 }
