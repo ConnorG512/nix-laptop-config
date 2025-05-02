@@ -17,6 +17,7 @@
     gearlever
     gnupg
     termusic
+    qbittorrent
     ];
   };
 }
