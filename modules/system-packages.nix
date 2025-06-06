@@ -13,6 +13,7 @@
   fastfetch
   neovim
   mesa
+  vulkan-tools
   waybar
   alacritty
   feh
