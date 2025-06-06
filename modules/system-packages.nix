@@ -23,5 +23,6 @@
   nemo
   pwvucontrol
   fzf
+  mpvpaper
   ];
 }
