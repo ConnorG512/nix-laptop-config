@@ -29,5 +29,6 @@
   wineWowPackages.wayland
   gamescope
   dxvk
+  vkd3d-proton
   ];
 }
