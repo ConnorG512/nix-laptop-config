@@ -24,6 +24,6 @@
   nemo
   pwvucontrol
   fzf
-  mpvpaper
+  podman
   ];
 }

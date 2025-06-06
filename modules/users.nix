@@ -18,6 +18,7 @@
     gnupg
     termusic
     qbittorrent
+    mpvpaper
     ];
   };
 }
