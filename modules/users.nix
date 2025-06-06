@@ -5,7 +5,7 @@
     isNormalUser = true;
     home = "/home/connor";
     description = "connor";
-    extraGroups = [ "networkmanager" "wheel" ];
+    extraGroups = [ "networkmanager" "wheel" "gamemode" ];
     
     # User installed packages
     packages = with pkgs; [
