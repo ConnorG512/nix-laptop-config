@@ -26,5 +26,6 @@
   fzf
   podman
   distrobox
+  wineWowPackages.wayland
   ];
 }
