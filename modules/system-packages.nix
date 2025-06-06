@@ -27,5 +27,6 @@
   podman
   distrobox
   wineWowPackages.wayland
+  gamescope
   ];
 }
