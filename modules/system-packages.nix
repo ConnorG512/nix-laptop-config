@@ -28,5 +28,6 @@
   distrobox
   wineWowPackages.wayland
   gamescope
+  dxvk
   ];
 }
