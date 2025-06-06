@@ -17,6 +17,7 @@
       # Apps 
       ./apps/openssh.nix
       ./apps/hyprland-wm.nix
+      ./apps/gamemode.nix
     ];
 
   # Bootloader.
