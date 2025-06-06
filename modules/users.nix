@@ -19,6 +19,7 @@
     termusic
     qbittorrent
     mpvpaper
+    winetricks
     ];
   };
 }
