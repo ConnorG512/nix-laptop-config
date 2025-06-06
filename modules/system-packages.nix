@@ -25,5 +25,6 @@
   pwvucontrol
   fzf
   podman
+  distrobox
   ];
 }
