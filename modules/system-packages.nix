@@ -5,12 +5,6 @@
   nixpkgs.config.allowUnfree = true;
 
   environment.systemPackages = with pkgs; [
-  tmux
-  git
-  btop
-  wget
-  lf
-  fastfetch
   neovim
   mesa
   vulkan-tools
@@ -23,12 +17,5 @@
   wofi
   nemo
   pwvucontrol
-  fzf
-  podman
-  distrobox
-  wineWowPackages.wayland
-  gamescope
-  dxvk
-  vkd3d-proton
   ];
 }

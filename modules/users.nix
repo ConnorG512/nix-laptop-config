@@ -20,6 +20,19 @@
     qbittorrent
     mpvpaper
     winetricks
+    git
+    btop
+    wget
+    lf
+    fastfetch
+    tmux
+    fzf
+    wineWowPackages.wayland
+    gamescope
+    podman
+    distrobox
+    dxvk
+    vkd3d-proton
     ];
   };
 }
