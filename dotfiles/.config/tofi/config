@@ -103,7 +103,7 @@
 
 	# Selection text
 	selection-color = #68C2D9
-	selection-background = #00000000
+	selection-background = #06273B80
 	selection-background-padding = 0
 	selection-background-corner-radius = 0
 
