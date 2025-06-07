@@ -33,6 +33,7 @@
     distrobox
     dxvk
     vkd3d-proton
+    discord-canary
     ];
   };
 }
