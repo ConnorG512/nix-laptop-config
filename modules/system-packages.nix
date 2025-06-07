@@ -14,7 +14,7 @@
   pipewire
   xdg-desktop-portal-hyprland
   hyprpolkitagent
-  wofi
+  tofi
   nemo
   pwvucontrol
   ];
