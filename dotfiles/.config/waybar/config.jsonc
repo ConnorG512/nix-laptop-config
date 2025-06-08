@@ -1,6 +1,6 @@
 {
     "layer": "top",
-    "modules-left": [ "network" ],
+    "modules-left": [ "cpu", "network" ],
     "modules-center": [ "clock" ],
     "modules-right": [ "battery" ],
     "sway/window": {
@@ -24,5 +24,19 @@
     "tooltip-format-ethernet": "{ifname} ",
     "tooltip-format-disconnected": "Disconnected",
     "max-length": 50
+    },
+    "cpu": {
+     "interval": 3,
+     "format": "{icon0}{icon1}{icon2}{icon3}{icon4}{icon5}{icon6}{icon7}",
+     "format-icons": [
+          "<span color='#69ff94'>▁</span>", // green
+          "<span color='#2aa9ff'>▂</span>", // blue
+          "<span color='#f8f8f2'>▃</span>", // white
+          "<span color='#f8f8f2'>▄</span>", // white
+          "<span color='#ffffa5'>▅</span>", // yellow
+          "<span color='#ffffa5'>▆</span>", // yellow
+          "<span color='#ff9977'>▇</span>", // orange
+          "<span color='#dd532e'>█</span>"  // red
+     ]
     }
 }
