@@ -14,6 +14,7 @@
       ./networking.nix
       ./system-packages.nix
       ./users.nix
+      ./fonts.nix
       # Apps 
       ./apps/openssh.nix
       ./apps/hyprland-wm.nix
