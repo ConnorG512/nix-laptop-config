@@ -171,16 +171,16 @@
 	height = 720
 
 	# Window background color
-	background-color = #1B1D1E
+	background-color = #06273B80
 
 	# Width of the border outlines in pixels.
-	outline-width = 0
+	outline-width = 1
 
 	# Border outline color
-	outline-color = #080800
+	outline-color = #68C2D9 
 
 	# Width of the border in pixels.
-	border-width = 2
+	border-width = 0
 
 	# Border color
 	border-color = #68C2D9
@@ -189,10 +189,10 @@
 	corner-radius = 0
 
 	# Padding between borders and text. Can be pixels or a percentage.
-	padding-top = 8
-	padding-bottom = 8
-	padding-left = 8
-	padding-right = 8
+	padding-top = 0
+	padding-bottom = 0
+	padding-left = 0
+	padding-right = 0
 
 	# Whether to clip text drawing to be within the specified padding. This
 	# is mostly important for allowing text to be inset from the border,
