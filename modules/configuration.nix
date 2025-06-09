@@ -17,6 +17,7 @@
       ./fonts.nix
       # wm / de
       ./desktop/wm/hyprland.nix
+      ./desktop/de/lxqt.nix
       # Apps 
       ./apps/openssh.nix
       ./apps/gamemode.nix
