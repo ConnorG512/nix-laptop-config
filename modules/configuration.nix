@@ -15,10 +15,12 @@
       ./system-packages.nix
       ./users.nix
       ./fonts.nix
+      # wm / de
+      ./desktop/wm/hyprland.nix
       # Apps 
       ./apps/openssh.nix
-      ./apps/hyprland-wm.nix
       ./apps/gamemode.nix
+      
     ];
 
   # Bootloader.
